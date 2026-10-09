@@ -1,6 +1,4 @@
 return {
-    ["farminfinita001"] = "Dono",
-    ["samuel_mi244"] = "Sub Dono",
-    ["WELLER_6893"] = "Admin",
-    ["Sae3572"] = "yt",
-}
+    ["pedrux_mmv"] = "oruam 1cm",
+    ["farminfinita001"] = "senior",
+} 
